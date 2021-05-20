@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TipTalkModelStoreContainer" CdmEntityContainer="TipTalkEntities">
+    <EntitySetMapping Name="CardMaster">
+      <EntityTypeMapping TypeName="TipTalkModel.CardMaster">
+        <MappingFragment StoreEntitySet="CardMaster">
+          <ScalarProperty Name="cardMasterId" ColumnName="cardMasterId" />
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="categoryId" ColumnName="categoryId" />
+          <ScalarProperty Name="priceMeeting" ColumnName="priceMeeting" />
+          <ScalarProperty Name="minutesMeeting" ColumnName="minutesMeeting" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="priceToExtraTime" ColumnName="priceToExtraTime" />
+          <ScalarProperty Name="numStars" ColumnName="numStars" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Category">
+      <EntityTypeMapping TypeName="TipTalkModel.Category">
+        <MappingFragment StoreEntitySet="Category">
+          <ScalarProperty Name="categoryId" ColumnName="categoryId" />
+          <ScalarProperty Name="categoryName" ColumnName="categoryName" />
+          <ScalarProperty Name="categoryIdParent" ColumnName="categoryIdParent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CategotyToMaster">
+      <EntityTypeMapping TypeName="TipTalkModel.CategotyToMaster">
+        <MappingFragment StoreEntitySet="CategotyToMaster">
+          <ScalarProperty Name="masterId" ColumnName="masterId" />
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="categoryId" ColumnName="categoryId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CreditCard">
+      <EntityTypeMapping TypeName="TipTalkModel.CreditCard">
+        <MappingFragment StoreEntitySet="CreditCard">
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="creditId" ColumnName="creditId" />
+          <ScalarProperty Name="creditNum" ColumnName="creditNum" />
+          <ScalarProperty Name="creditNameUser" ColumnName="creditNameUser" />
+          <ScalarProperty Name="cvv" ColumnName="cvv" />
+          <ScalarProperty Name="t_z" ColumnName="t_z" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MasterShift">
+      <EntityTypeMapping TypeName="TipTalkModel.MasterShift">
+        <MappingFragment StoreEntitySet="MasterShift">
+          <ScalarProperty Name="shiftMasterId" ColumnName="shiftMasterId" />
+          <ScalarProperty Name="cardMasterId" ColumnName="cardMasterId" />
+          <ScalarProperty Name="dayOfWeek" ColumnName="dayOfWeek" />
+          <ScalarProperty Name="fromHour" ColumnName="fromHour" />
+          <ScalarProperty Name="untillHour" ColumnName="untillHour" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Meetings">
+      <EntityTypeMapping TypeName="TipTalkModel.Meetings">
+        <MappingFragment StoreEntitySet="Meetings">
+          <ScalarProperty Name="meetingId" ColumnName="meetingId" />
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="userId_master" ColumnName="userId_master" />
+          <ScalarProperty Name="dateMeeting" ColumnName="dateMeeting" />
+          <ScalarProperty Name="categoryId" ColumnName="categoryId" />
+          <ScalarProperty Name="kind_level" ColumnName="kind_level" />
+          <ScalarProperty Name="availability_level" ColumnName="availability_level" />
+          <ScalarProperty Name="mastery_level" ColumnName="mastery_level" />
+          <ScalarProperty Name="describeText" ColumnName="describeText" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="TipTalkModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="firstName" ColumnName="firstName" />
+          <ScalarProperty Name="lastName" ColumnName="lastName" />
+          <ScalarProperty Name="phoneNumber" ColumnName="phoneNumber" />
+          <ScalarProperty Name="email" ColumnName="email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

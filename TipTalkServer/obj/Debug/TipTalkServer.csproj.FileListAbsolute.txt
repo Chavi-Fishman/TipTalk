@@ -1,0 +1,276 @@
+M:\TipTalkServer\TipTalkServer\bin\TipTalkServer.dll.config
+M:\TipTalkServer\TipTalkServer\bin\TipTalkServer.dll
+M:\TipTalkServer\TipTalkServer\bin\TipTalkServer.pdb
+M:\TipTalkServer\TipTalkServer\bin\roslyn\csc.exe
+M:\TipTalkServer\TipTalkServer\bin\roslyn\csc.exe.config
+M:\TipTalkServer\TipTalkServer\bin\roslyn\csc.rsp
+M:\TipTalkServer\TipTalkServer\bin\roslyn\csi.exe
+M:\TipTalkServer\TipTalkServer\bin\roslyn\csi.exe.config
+M:\TipTalkServer\TipTalkServer\bin\roslyn\csi.rsp
+M:\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.Managed.Core.targets
+M:\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.AppContext.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.Collections.Immutable.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.Console.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.IO.Compression.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.IO.FileSystem.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.IO.Pipes.AccessControl.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.IO.Pipes.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.Reflection.Metadata.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.AccessControl.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.Claims.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.Principal.Windows.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.Text.Encoding.CodePages.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.ValueTuple.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.Xml.ReaderWriter.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.Xml.XmlDocument.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.Xml.XPath.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\System.Xml.XPath.XDocument.dll
+M:\TipTalkServer\TipTalkServer\bin\roslyn\vbc.exe
+M:\TipTalkServer\TipTalkServer\bin\roslyn\vbc.exe.config
+M:\TipTalkServer\TipTalkServer\bin\roslyn\vbc.rsp
+M:\TipTalkServer\TipTalkServer\bin\roslyn\VBCSCompiler.exe
+M:\TipTalkServer\TipTalkServer\bin\roslyn\VBCSCompiler.exe.config
+M:\TipTalkServer\TipTalkServer\bin\Antlr3.Runtime.dll
+M:\TipTalkServer\TipTalkServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\TipTalkServer\TipTalkServer\bin\Microsoft.Web.Infrastructure.dll
+M:\TipTalkServer\TipTalkServer\bin\Newtonsoft.Json.dll
+M:\TipTalkServer\TipTalkServer\bin\System.Net.Http.Formatting.dll
+M:\TipTalkServer\TipTalkServer\bin\System.Web.Helpers.dll
+M:\TipTalkServer\TipTalkServer\bin\System.Web.Http.dll
+M:\TipTalkServer\TipTalkServer\bin\System.Web.Http.WebHost.dll
+M:\TipTalkServer\TipTalkServer\bin\System.Web.Mvc.dll
+M:\TipTalkServer\TipTalkServer\bin\System.Web.Optimization.dll
+M:\TipTalkServer\TipTalkServer\bin\System.Web.Razor.dll
+M:\TipTalkServer\TipTalkServer\bin\System.Web.WebPages.Deployment.dll
+M:\TipTalkServer\TipTalkServer\bin\System.Web.WebPages.dll
+M:\TipTalkServer\TipTalkServer\bin\System.Web.WebPages.Razor.dll
+M:\TipTalkServer\TipTalkServer\bin\WebGrease.dll
+M:\TipTalkServer\TipTalkServer\bin\Newtonsoft.Json.xml
+M:\TipTalkServer\TipTalkServer\bin\System.Net.Http.Formatting.xml
+M:\TipTalkServer\TipTalkServer\bin\System.Web.Helpers.xml
+M:\TipTalkServer\TipTalkServer\bin\System.Web.Http.xml
+M:\TipTalkServer\TipTalkServer\bin\System.Web.Http.WebHost.xml
+M:\TipTalkServer\TipTalkServer\bin\System.Web.Mvc.xml
+M:\TipTalkServer\TipTalkServer\bin\System.Web.Optimization.xml
+M:\TipTalkServer\TipTalkServer\bin\System.Web.Razor.xml
+M:\TipTalkServer\TipTalkServer\bin\System.Web.WebPages.xml
+M:\TipTalkServer\TipTalkServer\bin\System.Web.WebPages.Deployment.xml
+M:\TipTalkServer\TipTalkServer\bin\System.Web.WebPages.Razor.xml
+M:\TipTalkServer\TipTalkServer\bin\Antlr3.Runtime.pdb
+M:\TipTalkServer\TipTalkServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\TipTalkServer\TipTalkServer\obj\Debug\TipTalkServer.csprojAssemblyReference.cache
+M:\TipTalkServer\TipTalkServer\obj\Debug\TipTalkServer.csproj.CoreCompileInputs.cache
+M:\TipTalkServer\TipTalkServer\obj\Debug\TipTalkServer.csproj.CopyComplete
+M:\TipTalkServer\TipTalkServer\obj\Debug\TipTalkServer.dll
+M:\TipTalkServer\TipTalkServer\obj\Debug\TipTalkServer.pdb
+M:\TipTalkServer\TipTalkServer\bin\BLL.dll
+M:\TipTalkServer\TipTalkServer\bin\DTO.dll
+M:\TipTalkServer\TipTalkServer\bin\BLL.pdb
+M:\TipTalkServer\TipTalkServer\bin\DTO.pdb
+M:\TipTalkServer\TipTalkServer\bin\EntityFramework.dll
+M:\TipTalkServer\TipTalkServer\bin\EntityFramework.SqlServer.dll
+M:\TipTalkServer\TipTalkServer\bin\EntityFramework.xml
+M:\TipTalkServer\TipTalkServer\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\TipTalkServer.dll.config
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\TipTalkServer.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\TipTalkServer.pdb
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\csc.exe
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\csc.exe.config
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\csc.rsp
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\csi.exe
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\csi.exe.config
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\csi.rsp
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.Console.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\vbc.exe
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\vbc.exe.config
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\vbc.rsp
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\Antlr3.Runtime.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\BLL.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\DTO.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\EntityFramework.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\Newtonsoft.Json.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Web.Helpers.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Web.Http.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Web.Mvc.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Web.Optimization.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Web.Razor.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Web.WebPages.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\WebGrease.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\BLL.pdb
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\DTO.pdb
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\EntityFramework.xml
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\Newtonsoft.Json.xml
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Web.Helpers.xml
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Web.Http.xml
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Web.Mvc.xml
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Web.Optimization.xml
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Web.Razor.xml
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Web.WebPages.xml
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\obj\Debug\TipTalkServer.csprojAssemblyReference.cache
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\obj\Debug\TipTalkServer.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\obj\Debug\TipTalkServer.csproj.CopyComplete
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\obj\Debug\TipTalkServer.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\obj\Debug\TipTalkServer.pdb
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\DAL.dll
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\DAL.pdb
+C:\Users\user1\Downloads\TipTalkServer\TipTalkServer\bin\DAL.dll.config
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\TipTalkServer.dll.config
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\TipTalkServer.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\TipTalkServer.pdb
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\csc.exe
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\csc.exe.config
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\csc.rsp
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\csi.exe
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\csi.exe.config
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\csi.rsp
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.AppContext.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.Collections.Immutable.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.Console.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.IO.Compression.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.IO.FileSystem.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.IO.Pipes.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.AccessControl.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.Claims.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.ValueTuple.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.Xml.XPath.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\vbc.exe
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\vbc.exe.config
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\vbc.rsp
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\VBCSCompiler.exe
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\roslyn\VBCSCompiler.exe.config
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\Antlr3.Runtime.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\BLL.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\DTO.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\EntityFramework.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\EntityFramework.SqlServer.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\Newtonsoft.Json.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Net.Http.Formatting.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Web.Helpers.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Web.Http.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Web.Http.WebHost.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Web.Mvc.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Web.Optimization.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Web.Razor.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Web.WebPages.Deployment.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Web.WebPages.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Web.WebPages.Razor.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\WebGrease.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\DAL.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\BLL.pdb
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\DTO.pdb
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\EntityFramework.xml
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\EntityFramework.SqlServer.xml
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\Newtonsoft.Json.xml
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Net.Http.Formatting.xml
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Web.Helpers.xml
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Web.Http.xml
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Web.Http.WebHost.xml
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Web.Mvc.xml
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Web.Optimization.xml
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Web.Razor.xml
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Web.WebPages.xml
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Web.WebPages.Deployment.xml
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\System.Web.WebPages.Razor.xml
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\Antlr3.Runtime.pdb
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\DAL.pdb
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\bin\DAL.dll.config
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\obj\Debug\TipTalkServer.csprojAssemblyReference.cache
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\obj\Debug\TipTalkServer.csproj.CoreCompileInputs.cache
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\obj\Debug\TipTalkServer.csproj.CopyComplete
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\obj\Debug\TipTalkServer.dll
+C:\Chavi\Final Project\TipTalkServer\TipTalkServer\obj\Debug\TipTalkServer.pdb

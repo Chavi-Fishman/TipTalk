@@ -1,0 +1,44 @@
+M:\TipTalkServer\BLL\bin\Debug\BLL.dll
+M:\TipTalkServer\BLL\bin\Debug\BLL.pdb
+M:\TipTalkServer\BLL\bin\Debug\DAL.dll
+M:\TipTalkServer\BLL\bin\Debug\DTO.dll
+M:\TipTalkServer\BLL\bin\Debug\EntityFramework.dll
+M:\TipTalkServer\BLL\bin\Debug\DAL.pdb
+M:\TipTalkServer\BLL\bin\Debug\DAL.dll.config
+M:\TipTalkServer\BLL\bin\Debug\DTO.pdb
+M:\TipTalkServer\BLL\bin\Debug\EntityFramework.xml
+M:\TipTalkServer\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+M:\TipTalkServer\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+M:\TipTalkServer\BLL\obj\Debug\BLL.csproj.CopyComplete
+M:\TipTalkServer\BLL\obj\Debug\BLL.dll
+M:\TipTalkServer\BLL\obj\Debug\BLL.pdb
+C:\Users\user1\Downloads\TipTalkServer\BLL\bin\Debug\BLL.dll
+C:\Users\user1\Downloads\TipTalkServer\BLL\bin\Debug\BLL.pdb
+C:\Users\user1\Downloads\TipTalkServer\BLL\bin\Debug\DAL.dll
+C:\Users\user1\Downloads\TipTalkServer\BLL\bin\Debug\DTO.dll
+C:\Users\user1\Downloads\TipTalkServer\BLL\bin\Debug\DAL.pdb
+C:\Users\user1\Downloads\TipTalkServer\BLL\bin\Debug\DAL.dll.config
+C:\Users\user1\Downloads\TipTalkServer\BLL\bin\Debug\DTO.pdb
+C:\Users\user1\Downloads\TipTalkServer\BLL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Downloads\TipTalkServer\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\user1\Downloads\TipTalkServer\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\TipTalkServer\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\user1\Downloads\TipTalkServer\BLL\obj\Debug\BLL.dll
+C:\Users\user1\Downloads\TipTalkServer\BLL\obj\Debug\BLL.pdb
+C:\Users\user1\Downloads\TipTalkServer\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Downloads\TipTalkServer\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Chavi\Final Project\TipTalkServer\BLL\bin\Debug\BLL.dll
+C:\Chavi\Final Project\TipTalkServer\BLL\bin\Debug\BLL.pdb
+C:\Chavi\Final Project\TipTalkServer\BLL\bin\Debug\DAL.dll
+C:\Chavi\Final Project\TipTalkServer\BLL\bin\Debug\DTO.dll
+C:\Chavi\Final Project\TipTalkServer\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Chavi\Final Project\TipTalkServer\BLL\bin\Debug\DAL.pdb
+C:\Chavi\Final Project\TipTalkServer\BLL\bin\Debug\DAL.dll.config
+C:\Chavi\Final Project\TipTalkServer\BLL\bin\Debug\DTO.pdb
+C:\Chavi\Final Project\TipTalkServer\BLL\bin\Debug\EntityFramework.xml
+C:\Chavi\Final Project\TipTalkServer\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Chavi\Final Project\TipTalkServer\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Chavi\Final Project\TipTalkServer\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Chavi\Final Project\TipTalkServer\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Chavi\Final Project\TipTalkServer\BLL\obj\Debug\BLL.dll
+C:\Chavi\Final Project\TipTalkServer\BLL\obj\Debug\BLL.pdb

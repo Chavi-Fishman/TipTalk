@@ -1,0 +1,36 @@
+M:\TipTalkServer\DAL\bin\Debug\DAL.dll.config
+M:\TipTalkServer\DAL\bin\Debug\DAL.dll
+M:\TipTalkServer\DAL\bin\Debug\DAL.pdb
+M:\TipTalkServer\DAL\bin\Debug\EntityFramework.dll
+M:\TipTalkServer\DAL\bin\Debug\EntityFramework.SqlServer.dll
+M:\TipTalkServer\DAL\bin\Debug\EntityFramework.xml
+M:\TipTalkServer\DAL\bin\Debug\EntityFramework.SqlServer.xml
+M:\TipTalkServer\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+M:\TipTalkServer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+M:\TipTalkServer\DAL\obj\Debug\DAL.csproj.CopyComplete
+M:\TipTalkServer\DAL\obj\Debug\DAL.dll
+M:\TipTalkServer\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Downloads\TipTalkServer\DAL\bin\Debug\DAL.dll.config
+C:\Users\user1\Downloads\TipTalkServer\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Downloads\TipTalkServer\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Downloads\TipTalkServer\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Downloads\TipTalkServer\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Downloads\TipTalkServer\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Downloads\TipTalkServer\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Downloads\TipTalkServer\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user1\Downloads\TipTalkServer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\TipTalkServer\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user1\Downloads\TipTalkServer\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Downloads\TipTalkServer\DAL\obj\Debug\DAL.pdb
+C:\Chavi\Final Project\TipTalkServer\DAL\bin\Debug\DAL.dll.config
+C:\Chavi\Final Project\TipTalkServer\DAL\bin\Debug\DAL.dll
+C:\Chavi\Final Project\TipTalkServer\DAL\bin\Debug\DAL.pdb
+C:\Chavi\Final Project\TipTalkServer\DAL\bin\Debug\EntityFramework.dll
+C:\Chavi\Final Project\TipTalkServer\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Chavi\Final Project\TipTalkServer\DAL\bin\Debug\EntityFramework.xml
+C:\Chavi\Final Project\TipTalkServer\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Chavi\Final Project\TipTalkServer\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Chavi\Final Project\TipTalkServer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Chavi\Final Project\TipTalkServer\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Chavi\Final Project\TipTalkServer\DAL\obj\Debug\DAL.dll
+C:\Chavi\Final Project\TipTalkServer\DAL\obj\Debug\DAL.pdb
